@@ -24,7 +24,7 @@
   (pad 3 thru_hole oval (at 2.5 7) (size 1.5 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -4.8 0) (size 3.5 3.5) (drill 2.2) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 4.8 0) (size 3.5 3.5) (drill 2.2) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pth_resistors/trimmer_alps-rk09k1130ah1.wrl
+  (model ${KIWALTER3DMOD}/walter/pth_resistors/trimmer_alps-rk09k1130ah1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

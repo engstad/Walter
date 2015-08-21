@@ -41,7 +41,7 @@
   (pad 22 smd rect (at -3.95 0) (size 0.6 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 23 smd rect (at -2.95 0.9) (size 0.6 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 24 smd rect (at -3.95 1.8) (size 0.6 0.6) (layers F.Cu F.Paste F.Mask))
-  (model walter/rf_modules/panasonic_pan131x.wrl
+  (model ${KIWALTER3DMOD}/walter/rf_modules/panasonic_pan131x.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

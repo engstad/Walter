@@ -31,7 +31,7 @@
     (solder_mask_margin 0.0508) (solder_paste_margin -0.0508))
   (pad 2 smd oval (at -0.89916 -0.6985 45) (size 0.50038 1.00076) (layers F.Cu F.Mask)
     (solder_mask_margin 0.0508) (solder_paste_margin -0.0508))
-  (model walter\smd_leds\luxeon_c.wrl
+  (model ${KIWALTER3DMOD}/walter\smd_leds\luxeon_c.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

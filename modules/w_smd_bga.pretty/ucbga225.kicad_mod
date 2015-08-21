@@ -252,7 +252,7 @@
   (pad J13 smd circle (at 0.4 -2) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad J14 smd circle (at 0.4 -2.4) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad J15 smd circle (at 0.4 -2.8) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/ucbga225.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/ucbga225.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -140,7 +140,7 @@
   (pad B58 thru_hole circle (at -36.195 -3.81) (size 1.50114 1.50114) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad B59 thru_hole circle (at -37.465 -1.27) (size 1.50114 1.50114) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad B60 thru_hole circle (at -38.735 -3.81) (size 1.50114 1.50114) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_pc/pci_conn.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_pc/pci_conn.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

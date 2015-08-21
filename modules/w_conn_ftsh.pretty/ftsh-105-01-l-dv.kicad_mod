@@ -35,7 +35,7 @@
   (pad 4 smd rect (at -1.27 -2.032) (size 0.74 2.79) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 2.54 -2.032) (size 0.74 2.79) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 2.54 2.032) (size 0.74 2.79) (layers F.Cu F.Paste F.Mask))
-  (model walter/conn_ftsh/FTSH-105-01-L-DV.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_ftsh/FTSH-105-01-L-DV.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

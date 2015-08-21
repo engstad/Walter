@@ -25,7 +25,7 @@
   (pad 5 smd rect (at 1.30048 -2.67462) (size 0.39878 1.3462) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at 1.89738 -2.1463) (size 0.79756 0.79756) (drill 0.79756) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -1.89992 -2.14884) (size 0.79756 0.79756) (drill 0.79756) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_pc/usb_B_micro_smd-2.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_pc/usb_B_micro_smd-2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

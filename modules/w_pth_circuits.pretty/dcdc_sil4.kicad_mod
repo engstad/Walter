@@ -15,7 +15,7 @@
   (pad 2 thru_hole oval (at -1.27 0) (size 1.6002 2.1971) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 1.27 0) (size 1.6002 2.1971) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole oval (at 3.81 0) (size 1.6002 2.1971) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pth_circuits/dcdc_sil4.wrl
+  (model ${KIWALTER3DMOD}/walter/pth_circuits/dcdc_sil4.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -59,7 +59,7 @@
   (pad 8 thru_hole oval (at -3.1242 -1.80086) (size 0.94996 1.4986) (drill 0.6477) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole oval (at -4.37388 -1.80086) (size 0.94996 1.4986) (drill 0.6477) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole oval (at -5.6261 -1.80086) (size 0.94996 1.4986) (drill 0.6477) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_df13/df13-10p-125ds.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_df13/df13-10p-125ds.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

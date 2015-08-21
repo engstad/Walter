@@ -57,7 +57,7 @@
   (pad 28 smd rect (at 13.97 -2.725) (size 1.02 3.45) (layers F.Cu F.Paste F.Mask))
   (pad 29 smd rect (at 16.51 2.725) (size 1.02 3.45) (layers F.Cu F.Paste F.Mask))
   (pad 30 smd rect (at 16.51 -2.725) (size 1.02 3.45) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_strip/BB02-HP32.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_strip/BB02-HP32.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

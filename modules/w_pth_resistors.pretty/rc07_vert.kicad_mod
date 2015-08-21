@@ -10,7 +10,7 @@
   (fp_circle (center -1.905 0) (end -3.937 0.127) (layer F.SilkS) (width 0.3048))
   (pad 1 thru_hole circle (at -1.905 0) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.905 0) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pth_resistors/rc07vert.wrl
+  (model ${KIWALTER3DMOD}/walter/pth_resistors/rc07vert.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

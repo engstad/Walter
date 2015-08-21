@@ -41,7 +41,7 @@
     (clearance 0.2))
   (pad 8 smd rect (at -0.975 -1.2) (size 0.4 1) (layers F.Cu F.Paste F.Mask)
     (clearance 0.2))
-  (model walter/smd_trans/sot23-8.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_trans/sot23-8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

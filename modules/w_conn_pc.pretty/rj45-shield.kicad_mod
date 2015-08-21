@@ -30,7 +30,7 @@
   (pad "" thru_hole circle (at 8.12038 -3.37312) (size 2.49936 2.49936) (drill 1.50114) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -6.33984 0.05588) (size 3.2512 3.2512) (drill 3.2512) (layers *.Cu))
   (pad "" np_thru_hole circle (at 6.33984 0.05588) (size 3.2512 3.2512) (drill 3.2512) (layers *.Cu))
-  (model walter/conn_pc/rj45-shield.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_pc/rj45-shield.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

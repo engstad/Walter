@@ -9,7 +9,7 @@
   (pad 1 smd circle (at 0 0) (size 0.99568 0.99568) (layers F.Cu F.Mask))
   (pad 1 smd circle (at 0 0) (size 1.99898 1.99898) (layers F.Mask)
     (solder_paste_margin 0.4953) (clearance 0.4953) (zone_connect 0))
-  (model walter/details/fiducial_2mm_round.wrl
+  (model ${KIWALTER3DMOD}/walter/details/fiducial_2mm_round.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

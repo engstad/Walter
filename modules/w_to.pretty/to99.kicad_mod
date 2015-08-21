@@ -18,7 +18,7 @@
   (pad 7 thru_hole circle (at -2.54 0) (size 1.6 1.6) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 2.54 0) (size 1.6 1.6) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 2.54) (size 1.6 1.6) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model walter/to/to99.wrl
+  (model ${KIWALTER3DMOD}/walter/to/to99.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

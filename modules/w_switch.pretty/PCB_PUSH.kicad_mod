@@ -16,7 +16,7 @@
   (pad 2 thru_hole circle (at 2.25044 3.2512) (size 1.99898 1.99898) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 2.25044 -3.2512) (size 1.99898 1.99898) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at -2.25044 3.2512) (size 1.99898 1.99898) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
-  (model walter/switch/pcb_push.wrl
+  (model ${KIWALTER3DMOD}/walter/switch/pcb_push.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

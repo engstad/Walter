@@ -40,7 +40,7 @@
   (pad 14 thru_hole circle (at 3.81 -3.81 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at 3.81 -6.35 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at 3.81 -8.89 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model walter/relay/relay_HB.wrl
+  (model ${KIWALTER3DMOD}/walter/relay/relay_HB.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

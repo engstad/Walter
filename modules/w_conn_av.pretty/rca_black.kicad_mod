@@ -33,7 +33,7 @@
   (pad 2 thru_hole oval (at 5.05 -4) (size 2 3.2) (drill oval 1 2.2) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole oval (at 0 0) (size 3.2 2) (drill oval 2.2 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at -5.05 -4) (size 2 3.2) (drill oval 1 2.2) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_av/rca_black.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_av/rca_black.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

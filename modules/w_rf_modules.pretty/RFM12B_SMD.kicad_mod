@@ -39,7 +39,7 @@
   (pad 12 smd rect (at 8.001 -1.99898) (size 2.9972 1.59766) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at 8.001 -4.0005) (size 2.9972 1.59766) (layers F.Cu F.Paste F.Mask))
   (pad 14 smd rect (at 8.001 -5.99948) (size 2.9972 1.59766) (layers F.Cu F.Paste F.Mask))
-  (model walter/rf_modules/rfm12b-s.wrl
+  (model ${KIWALTER3DMOD}/walter/rf_modules/rfm12b-s.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

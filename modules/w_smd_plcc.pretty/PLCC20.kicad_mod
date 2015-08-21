@@ -36,7 +36,7 @@
   (pad 18 smd oval (at -4.30022 2.54) (size 2.70002 0.70104) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd oval (at -2.54 4.30022) (size 0.70104 2.70002) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd oval (at -1.27 4.30022) (size 0.70104 2.70002) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_plcc/plcc20.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_plcc/plcc20.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

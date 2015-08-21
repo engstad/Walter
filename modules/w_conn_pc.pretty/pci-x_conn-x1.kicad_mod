@@ -68,7 +68,7 @@
   (pad B9 thru_hole circle (at -1.50114 1.24968) (size 1.19888 1.19888) (drill 0.8001) (layers *.Cu *.Mask))
   (pad B10 thru_hole circle (at -0.50038 3.2512) (size 1.19888 1.19888) (drill 0.8001) (layers *.Cu *.Mask))
   (pad B11 thru_hole circle (at 0.50038 1.24968) (size 1.19888 1.19888) (drill 0.8001) (layers *.Cu *.Mask))
-  (model walter/conn_pc/pci-x_conn-x1.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_pc/pci-x_conn-x1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

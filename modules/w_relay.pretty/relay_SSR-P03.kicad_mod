@@ -18,7 +18,7 @@
   (pad 2 thru_hole circle (at 3.7973 0) (size 2.9972 2.9972) (drill 1.09982) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 13.9954 0) (size 2.9972 2.9972) (drill 1.09982) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at -14.00048 0) (size 1.99898 1.99898) (drill 0.99568) (layers *.Cu *.Mask F.SilkS))
-  (model walter/relay/relay_SSR-P03.wrl
+  (model ${KIWALTER3DMOD}/walter/relay/relay_SSR-P03.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

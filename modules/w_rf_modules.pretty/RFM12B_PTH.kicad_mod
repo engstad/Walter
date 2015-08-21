@@ -47,7 +47,7 @@
     (clearance 0.19812))
   (pad 9 thru_hole oval (at -5.4991 -5.00126) (size 1.79578 1.2954) (drill 0.89916 (offset 0.24638 0)) (layers *.Cu *.Mask F.SilkS)
     (clearance 0.19812))
-  (model walter/rf_modules/rfm12b-d.wrl
+  (model ${KIWALTER3DMOD}/walter/rf_modules/rfm12b-d.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

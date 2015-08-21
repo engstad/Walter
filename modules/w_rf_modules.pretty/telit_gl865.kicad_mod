@@ -65,7 +65,7 @@
   (pad 46 smd rect (at -6.8 -12.2) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
   (pad 47 smd rect (at -8.3 -12.2) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd rect (at -9.8 -12.2) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
-  (model walter/rf_modules/telit_gl865.wrl
+  (model ${KIWALTER3DMOD}/walter/rf_modules/telit_gl865.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

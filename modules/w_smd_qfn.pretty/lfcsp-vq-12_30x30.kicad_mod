@@ -47,7 +47,7 @@
     (solder_mask_margin 0.06858))
   (pad 12 smd rect (at -1.3716 0.50038) (size 0.55118 0.29718) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.06858))
-  (model walter/smd_qfn/lfcsp-vq-12.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_qfn/lfcsp-vq-12.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

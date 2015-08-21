@@ -22,7 +22,7 @@
   (pad 2 thru_hole circle (at -2.54 0) (size 2.9 2.9) (drill 1.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.54 0) (size 2.9 2.9) (drill 1.8) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 7.62 0) (size 2.9 2.9) (drill 1.8) (layers *.Cu *.Mask))
-  (model walter/conn_pc/hdd_power_15-24-4449.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_pc/hdd_power_15-24-4449.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

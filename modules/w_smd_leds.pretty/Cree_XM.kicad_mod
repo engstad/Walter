@@ -27,7 +27,7 @@
     (solder_mask_margin 0.0508) (solder_paste_margin -0.0508))
   (pad 2 smd rect (at 2.58064 0) (size 0.39878 0.50038) (layers F.Cu F.Mask)
     (solder_mask_margin 0.0508) (solder_paste_margin -0.0508))
-  (model walter\smd_leds\cree_xm.wrl
+  (model ${KIWALTER3DMOD}/walter\smd_leds\cree_xm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

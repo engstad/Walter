@@ -46,7 +46,7 @@
   (pad 1 smd rect (at 24.13 1.525) (size 1.27 3.05) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at -21.59 1.525) (size 1.27 3.05) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at -24.13 -1.525) (size 1.27 3.05) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_strip/BB02-HY20A.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_strip/BB02-HY20A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

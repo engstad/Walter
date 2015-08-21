@@ -85,7 +85,7 @@
   (pad 32 thru_hole oval (at -35.85 1.27) (size 2.2 1.5) (drill 0.99822) (layers *.Cu *.Mask F.SilkS))
   (pad 33 thru_hole oval (at -35.85 3.81) (size 2.2 1.5) (drill 0.99822) (layers *.Cu *.Mask F.SilkS))
   (pad 34 thru_hole oval (at -35.85 6.35) (size 2.2 1.5) (drill 0.99822) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_misc/stm32vl_discovery_header.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_misc/stm32vl_discovery_header.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

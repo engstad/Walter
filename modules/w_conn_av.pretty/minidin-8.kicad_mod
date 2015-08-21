@@ -26,7 +26,7 @@
   (pad 4 thru_hole circle (at -1.80086 -4.50088) (size 1.50114 1.50114) (drill 0.89916) (layers *.Cu *.SilkS *.Mask))
   (pad 5 thru_hole circle (at 3.8989 -4.50088) (size 1.50114 1.50114) (drill 0.89916) (layers *.Cu *.SilkS *.Mask))
   (pad 10 thru_hole circle (at 0 1.80086) (size 3.50012 3.50012) (drill 2.19964) (layers *.Cu))
-  (model walter/conn_av/minidin-8.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_av/minidin-8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

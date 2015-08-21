@@ -18,7 +18,7 @@
   (fp_line (start -2.54 3.81) (end -2.54 1.27) (layer F.SilkS) (width 0.3048))
   (pad 1 thru_hole rect (at -1.27 0) (size 1.524 2.19964) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 1.27 0) (size 1.524 2.19964) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pin_strip/pin_strip_2-90.wrl
+  (model ${KIWALTER3DMOD}/walter/pin_strip/pin_strip_2-90.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -14,7 +14,7 @@
   (fp_line (start -5.08 -2.54) (end -5.08 -1.27) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole circle (at 2.54 0) (size 2.49936 2.49936) (drill 1.24968) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -2.54 0) (size 2.49936 2.49936) (drill 1.24968) (layers *.Cu *.Mask F.SilkS))
-  (model walter/to/to220-2.wrl
+  (model ${KIWALTER3DMOD}/walter/to/to220-2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

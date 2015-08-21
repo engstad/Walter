@@ -16,7 +16,7 @@
   (fp_line (start -8.7 -8.3) (end 8.7 -8.3) (layer F.SilkS) (width 0.3048))
   (pad 1 thru_hole rect (at 5.9 8) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -5.9 8) (size 1.6 1.6) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
-  (model walter/capacitors/phv_h_9x17.3x14.5.wrl
+  (model ${KIWALTER3DMOD}/walter/capacitors/phv_h_9x17.3x14.5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

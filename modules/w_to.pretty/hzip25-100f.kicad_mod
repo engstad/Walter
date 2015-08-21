@@ -60,7 +60,7 @@
   (pad 23 thru_hole oval (at 10 4) (size 1.06 1.6) (drill 0.75) (layers *.Cu *.Mask F.SilkS))
   (pad 24 thru_hole oval (at 11 0) (size 1.06 1.6) (drill 0.75) (layers *.Cu *.Mask F.SilkS))
   (pad 25 thru_hole oval (at 12 4) (size 1.06 1.6) (drill 0.75) (layers *.Cu *.Mask F.SilkS))
-  (model walter/to/hzip25-100f.wrl
+  (model ${KIWALTER3DMOD}/walter/to/hzip25-100f.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -78,7 +78,7 @@
   (pad 31 thru_hole oval (at -11.684 -24.13) (size 1.524 2.1971) (drill 0.99822) (layers *.Cu *.Mask F.SilkS))
   (pad 32 thru_hole oval (at -14.224 -24.13) (size 1.524 2.1971) (drill 0.99822) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 33.02 -8.89) (size 3.19786 3.19786) (drill 3.19786) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_misc/arduino_header.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_misc/arduino_header.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

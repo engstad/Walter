@@ -75,7 +75,7 @@
   (pad "" smd circle (at -4.9 15.4) (size 2 2) (layers Dwgs.User))
   (pad "" smd circle (at 4.1 10.4) (size 2 2) (layers Dwgs.User))
   (pad "" smd rect (at -1.3 -17.4) (size 22.6 10.5) (layers Dwgs.User))
-  (model walter/rf_modules/roving_rn-131.wrl
+  (model ${KIWALTER3DMOD}/walter/rf_modules/roving_rn-131.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

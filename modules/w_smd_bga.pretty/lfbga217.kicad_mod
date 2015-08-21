@@ -239,7 +239,7 @@
   (pad U15 smd circle (at 4.8 -6.4) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad U16 smd circle (at 5.6 -6.4) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad U17 smd circle (at 6.4 -6.4) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/lfbga217.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/lfbga217.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

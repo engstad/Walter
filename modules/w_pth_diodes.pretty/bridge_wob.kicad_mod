@@ -28,7 +28,7 @@
   (pad 2 thru_hole circle (at 2.54 2.54) (size 2.54 2.54) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 2.54 -2.54) (size 2.54 2.54) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at -2.54 -2.54) (size 2.54 2.54) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pth_diodes/db_wob.wrl
+  (model ${KIWALTER3DMOD}/walter/pth_diodes/db_wob.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

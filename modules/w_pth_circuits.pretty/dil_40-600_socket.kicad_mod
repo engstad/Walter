@@ -66,7 +66,7 @@
   (pad 38 thru_hole oval (at -19.05 -7.62) (size 1.50114 2.19964) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 39 thru_hole oval (at -21.59 -7.62) (size 1.50114 2.19964) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 40 thru_hole oval (at -24.13 -7.62) (size 1.50114 2.19964) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pth_circuits/dil_40-600_socket.wrl
+  (model ${KIWALTER3DMOD}/walter/pth_circuits/dil_40-600_socket.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -38,7 +38,7 @@
     (solder_mask_margin 0.09906) (solder_paste_margin -0.0508))
   (pad 3 smd circle (at 0 0) (size 4.0005 4.0005) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.09906) (solder_paste_margin -0.7493))
-  (model walter/smd_leds/osram_goldendragon.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_leds/osram_goldendragon.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

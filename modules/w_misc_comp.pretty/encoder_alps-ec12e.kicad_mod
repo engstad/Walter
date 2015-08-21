@@ -24,7 +24,7 @@
   (pad 3 thru_hole oval (at 2.49936 7.50062) (size 1.50114 1.99898) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -6.20014 0) (size 3.50012 3.50012) (drill 2.19964) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 6.20014 0) (size 3.50012 3.50012) (drill 2.19964) (layers *.Cu *.Mask F.SilkS))
-  (model walter/misc_comp/encoder_alps-ec12e.wrl
+  (model ${KIWALTER3DMOD}/walter/misc_comp/encoder_alps-ec12e.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

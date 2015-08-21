@@ -74,7 +74,7 @@
   (pad 50 smd oval (at -18.95 6) (size 2 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 51 smd oval (at -18.95 8) (size 2 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 52 smd oval (at -18.95 10) (size 2 1.2) (layers F.Cu F.Paste F.Mask))
-  (model walter/rf_modules/8devices_carambola2.wrl
+  (model ${KIWALTER3DMOD}/walter/rf_modules/8devices_carambola2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

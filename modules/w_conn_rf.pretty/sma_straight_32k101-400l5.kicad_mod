@@ -18,7 +18,7 @@
   (pad 2 thru_hole circle (at -2.54 -2.54) (size 2.5 2.5) (drill 1.45) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -2.54 2.54) (size 2.5 2.5) (drill 1.45) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.54 2.54) (size 2.5 2.5) (drill 1.45) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_rf/sma_straight_32k101-400l5.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_rf/sma_straight_32k101-400l5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

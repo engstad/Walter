@@ -23,7 +23,7 @@
   (pad 4 thru_hole oval (at 0 -1.27) (size 1.524 1.99898) (drill 1.00076 (offset 0 -0.24892)) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole oval (at 2.54 1.27) (size 1.524 1.99898) (drill 1.00076 (offset 0 0.24892)) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole oval (at 2.54 -1.27) (size 1.524 1.99898) (drill 1.00076 (offset 0 -0.24892)) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pin_strip/pin_strip_3x2-90.wrl
+  (model ${KIWALTER3DMOD}/walter/pin_strip/pin_strip_3x2-90.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -19,7 +19,7 @@
   (pad 1 thru_hole oval (at -2.49936 0) (size 1.4986 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 0 0) (size 1.4986 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 2.49936 0) (size 1.4986 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model walter/crystal/resonator_sip3.wrl
+  (model ${KIWALTER3DMOD}/walter/crystal/resonator_sip3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

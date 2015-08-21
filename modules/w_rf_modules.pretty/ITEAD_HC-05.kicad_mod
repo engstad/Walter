@@ -71,7 +71,7 @@
   (pad 32 smd rect (at 6.49986 -2.99974) (size 1.69926 1.19888) (layers F.Cu F.Paste F.Mask))
   (pad 33 smd rect (at 6.49986 -4.50088) (size 1.69926 1.19888) (layers F.Cu F.Paste F.Mask))
   (pad 34 smd rect (at 6.49986 -5.99948) (size 1.69926 1.19888) (layers F.Cu F.Paste F.Mask))
-  (model walter/rf_modules/itead_hc-05.wrl
+  (model ${KIWALTER3DMOD}/walter/rf_modules/itead_hc-05.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

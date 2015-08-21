@@ -237,7 +237,7 @@
   (pad 28 smd rect (at 7.50062 2.99974) (size 0.70104 1.69926) (layers F.Cu F.Paste F.Mask))
   (pad 29 smd rect (at 8.7503 -2.99974) (size 0.70104 1.69926) (layers F.Cu F.Paste F.Mask))
   (pad 30 smd rect (at 8.7503 2.99974) (size 0.70104 1.69926) (layers F.Cu F.Paste F.Mask))
-  (model walter/conn_df13/df13a-30dp-125v.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_df13/df13a-30dp-125v.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

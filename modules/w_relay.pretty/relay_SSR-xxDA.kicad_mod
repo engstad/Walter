@@ -80,7 +80,7 @@
   (fp_line (start -29.99994 22.49932) (end -29.99994 -22.49932) (layer F.SilkS) (width 0.381))
   (pad "" np_thru_hole circle (at -22.9997 0) (size 4.4958 4.4958) (drill 4.4958) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 23.99792 0) (size 4.4958 4.4958) (drill 4.4958) (layers *.Cu *.Mask F.SilkS))
-  (model walter/relay/relay_SSR-xxDA.wrl
+  (model ${KIWALTER3DMOD}/walter/relay/relay_SSR-xxDA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

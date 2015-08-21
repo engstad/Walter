@@ -41,7 +41,7 @@
   (pad 18 thru_hole circle (at -5.08 2.54) (size 1.69926 1.69926) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 19 thru_hole circle (at -2.54 5.08) (size 1.69926 1.69926) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 20 thru_hole circle (at -2.54 2.54) (size 1.69926 1.69926) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pth_plcc/plcc20_pth-skt.wrl
+  (model ${KIWALTER3DMOD}/walter/pth_plcc/plcc20_pth-skt.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

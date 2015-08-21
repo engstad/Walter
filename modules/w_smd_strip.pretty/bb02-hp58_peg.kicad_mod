@@ -85,7 +85,7 @@
   (pad 42 smd rect (at 15.24 -2.725) (size 1.02 3.45) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -34.29 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 34.29 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-  (model walter/smd_strip/BB02-HP58_peg.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_strip/BB02-HP58_peg.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

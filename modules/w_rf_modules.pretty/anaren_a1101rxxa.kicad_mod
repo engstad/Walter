@@ -44,7 +44,7 @@
   (pad "" smd rect (at 3.91 -2.89) (size 1 1) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -3.91 -6.89) (size 1 1) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 3.91 -6.89) (size 1 1) (layers F.Cu F.Paste F.Mask))
-  (model walter/rf_modules/anaren_a1101rxxa.wrl
+  (model ${KIWALTER3DMOD}/walter/rf_modules/anaren_a1101rxxa.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

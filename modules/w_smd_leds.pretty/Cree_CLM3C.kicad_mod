@@ -13,7 +13,7 @@
   (fp_line (start -1.5494 1.04902) (end -1.5494 0) (layer F.SilkS) (width 0.381))
   (pad 1 smd rect (at -1.12522 0) (size 1.19888 1.80086) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.12522 0) (size 1.19888 1.80086) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_leds/cree_clm3c.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_leds/cree_clm3c.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

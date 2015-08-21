@@ -30,7 +30,7 @@
   (pad 3 smd rect (at 0 2.94386) (size 6.07568 0.39116) (layers F.Cu))
   (pad 3 smd rect (at 0 -3.31978) (size 5.37718 0.36068) (layers F.Cu))
   (pad 3 smd rect (at 0 3.31978) (size 5.37718 0.36068) (layers F.Cu))
-  (model walter\smd_leds\luxeon_m.wrl
+  (model ${KIWALTER3DMOD}/walter\smd_leds\luxeon_m.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

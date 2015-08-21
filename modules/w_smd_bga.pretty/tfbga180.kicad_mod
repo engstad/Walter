@@ -204,7 +204,7 @@
   (pad G5 smd circle (at -2 0.4) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad H5 smd circle (at -2 -0.4) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad J5 smd circle (at -2 -1.2) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/tfbga180.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/tfbga180.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

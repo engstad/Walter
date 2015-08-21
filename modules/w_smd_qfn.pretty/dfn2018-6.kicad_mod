@@ -30,7 +30,7 @@
     (solder_mask_margin 0.06858))
   (pad 7 smd rect (at 0 0) (size 1.6 1.2) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.06858) (solder_paste_margin -0.09906))
-  (model walter/smd_qfn/dfn2018-6.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_qfn/dfn2018-6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

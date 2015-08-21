@@ -15,7 +15,7 @@
   (fp_line (start -1 -6) (end 1 -6) (layer F.SilkS) (width 0.5))
   (pad 1 thru_hole rect (at 0 3.75) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 -3.75) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model walter/capacitors/cp_16x20mm.wrl
+  (model ${KIWALTER3DMOD}/walter/capacitors/cp_16x20mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

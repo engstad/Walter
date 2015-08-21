@@ -41,7 +41,7 @@
   (pad 6 smd rect (at 1.80086 -2.10058) (size 1.99898 1.75006) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -1.80086 2.10058) (size 1.99898 1.75006) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.80086 2.10058) (size 1.99898 1.75006) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_leds/cree_clp6b.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_leds/cree_clp6b.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

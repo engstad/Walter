@@ -63,7 +63,7 @@
   (pad 13 thru_hole circle (at -0.26924 -1.4732) (size 1.19888 1.19888) (drill 0.65024) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at -2.56032 -1.47066) (size 1.19888 1.19888) (drill 0.65024) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at -4.84886 -1.47066) (size 1.19888 1.19888) (drill 0.65024) (layers *.Cu *.Mask))
-  (model walter/conn_pc/db_15-vga.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_pc/db_15-vga.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -18,7 +18,7 @@
   (fp_line (start -5.08 -2.54) (end -5.08 4.064) (layer F.SilkS) (width 0.3048))
   (pad 1 thru_hole rect (at -2.54 0) (size 2.99974 2.99974) (drill 1.39954) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.54 0) (size 2.99974 2.99974) (drill 1.39954) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_screw/mstbva_2,5-2-g-5,08.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_screw/mstbva_2,5-2-g-5,08.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -74,7 +74,7 @@
   (pad 14 thru_hole circle (at -8.255 -9.40054) (size 1.39954 1.39954) (drill 0.8509) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 8.255 -7.50062) (size 1.39954 1.39954) (drill 0.8509) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at 8.255 -3.70078) (size 1.39954 1.39954) (drill 0.8509) (layers *.Cu *.Mask))
-  (model walter/conn_d-sub/db_28f.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_d-sub/db_28f.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

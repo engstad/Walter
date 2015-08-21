@@ -33,7 +33,7 @@
   (pad "" smd rect (at -4.42976 -3.6195) (size 2.1971 2.1971) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -4.42976 1.8796) (size 2.1971 2.1971) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 4.42976 1.8796) (size 2.1971 2.1971) (layers F.Cu F.Paste F.Mask))
-  (model walter/conn_pc/usb_B_mini_smd.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_pc/usb_B_mini_smd.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

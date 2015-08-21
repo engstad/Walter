@@ -15,7 +15,7 @@
   (fp_line (start -4.1 5.3) (end -4.1 -2) (layer F.SilkS) (width 0.381))
   (pad 2 thru_hole oval (at -1.98 0) (size 2.5 3.5) (drill 1.7) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at 1.98 0) (size 2.5 3.5) (drill 1.7) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_kk156/26-60-4020.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_kk156/26-60-4020.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

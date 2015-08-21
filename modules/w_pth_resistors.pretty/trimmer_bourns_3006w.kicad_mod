@@ -21,7 +21,7 @@
   (pad 1 thru_hole oval (at -2.54 -6.477) (size 1.99898 1.99898) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 2.54 1.143) (size 1.99898 1.99898) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at -2.54 6.223) (size 1.99898 1.99898) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pth_resistors/trimmer_bourns_3006w.wrl
+  (model ${KIWALTER3DMOD}/walter/pth_resistors/trimmer_bourns_3006w.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

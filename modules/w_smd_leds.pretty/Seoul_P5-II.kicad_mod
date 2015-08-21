@@ -19,7 +19,7 @@
   (pad 5 smd rect (at -2.55016 0) (size 0.59944 1.19888) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -2.55016 -1.82626) (size 0.59944 1.04902) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 0 0) (size 3.50012 4.699) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_leds/seoul_p5-ii.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_leds/seoul_p5-ii.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

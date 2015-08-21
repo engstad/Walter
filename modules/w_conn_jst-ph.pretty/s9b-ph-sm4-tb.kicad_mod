@@ -36,7 +36,7 @@
   (pad 7 smd rect (at 3.99796 0) (size 0.99568 3.49758) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 5.99948 0) (size 0.99568 3.49758) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 8.001 0) (size 0.99568 3.49758) (layers F.Cu F.Paste F.Mask))
-  (model walter/conn_jst-ph/s9b-ph-sm4-tb.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_jst-ph/s9b-ph-sm4-tb.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -19,7 +19,7 @@
   (fp_line (start -6 0) (end -3.8 0) (layer F.SilkS) (width 0.3048))
   (pad 1 thru_hole circle (at -6 0) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 6 0) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pth_diodes/diode_do15.wrl
+  (model ${KIWALTER3DMOD}/walter/pth_diodes/diode_do15.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

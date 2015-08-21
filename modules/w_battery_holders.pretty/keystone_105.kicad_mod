@@ -40,7 +40,7 @@
   (fp_arc (start 16.67256 -2.50698) (end 16.67256 -2.9083) (angle 90) (layer F.SilkS) (width 0.254))
   (pad 2 thru_hole circle (at -5.2832 0) (size 2.99974 2.99974) (drill 1.4986) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at 15.2146 0) (size 2.9972 2.9972) (drill 1.4986) (layers *.Cu *.Mask F.SilkS))
-  (model walter/battery_holders/keystone_105.wrl
+  (model ${KIWALTER3DMOD}/walter/battery_holders/keystone_105.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

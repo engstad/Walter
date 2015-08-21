@@ -58,7 +58,7 @@
   (pad 4 smd rect (at -2.54 3.683) (size 1.524 2.159) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0 3.683) (size 1.524 2.159) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 2.54 3.683) (size 1.524 2.159) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_qfn/dfn-6_clock.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_qfn/dfn-6_clock.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

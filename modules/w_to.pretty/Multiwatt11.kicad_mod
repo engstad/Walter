@@ -35,7 +35,7 @@
   (pad 9 thru_hole oval (at 5.10032 5.08) (size 1.80086 2.70002) (drill 1.24968) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole oval (at 6.79958 0) (size 1.80086 2.70002) (drill 1.24968) (layers *.Cu *.Mask F.SilkS))
   (pad 11 thru_hole oval (at 8.49884 5.08) (size 1.80086 2.70002) (drill 1.24968) (layers *.Cu *.Mask F.SilkS))
-  (model walter/to/multiwatt11.wrl
+  (model ${KIWALTER3DMOD}/walter/to/multiwatt11.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

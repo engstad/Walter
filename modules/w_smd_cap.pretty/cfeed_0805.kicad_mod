@@ -15,7 +15,7 @@
   (pad 1 smd rect (at 1.19888 0) (size 0.89916 1.24968) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.19888 0) (size 0.89916 1.24968) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 0) (size 0.50038 1.99898) (layers F.Cu F.Paste F.Mask))
-  (model walter\smd_cap\c_0805.wrl
+  (model ${KIWALTER3DMOD}/walter\smd_cap\c_0805.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

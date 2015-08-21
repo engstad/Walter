@@ -26,7 +26,7 @@
   (pad 7 thru_hole circle (at 5 -12.5) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at -5 -12.5) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole circle (at -10 -12.5) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model walter/misc_comp/trafo_EI38.wrl
+  (model ${KIWALTER3DMOD}/walter/misc_comp/trafo_EI38.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

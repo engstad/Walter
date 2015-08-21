@@ -18,7 +18,7 @@
   (fp_line (start -2.4003 -1.99898) (end 2.4003 -1.99898) (layer F.SilkS) (width 0.127))
   (pad 2 smd rect (at 2.00914 0) (size 1.99898 2.30124) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.00914 0) (size 1.99898 2.30124) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_diode/do214aa.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_diode/do214aa.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

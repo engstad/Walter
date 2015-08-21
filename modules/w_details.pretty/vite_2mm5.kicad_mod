@@ -8,7 +8,7 @@
   )
   (fp_circle (center 0 0) (end -3.50012 0) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole circle (at 0 0) (size 5.08 5.08) (drill 2.99974) (layers *.Cu *.SilkS *.Mask))
-  (model walter/details/vite_2mm5.wrl
+  (model ${KIWALTER3DMOD}/walter/details/vite_2mm5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

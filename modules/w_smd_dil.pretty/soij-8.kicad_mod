@@ -27,7 +27,7 @@
   (pad 6 smd rect (at 0.635 -3.79984) (size 0.6477 1.99898) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at -0.635 -3.79984) (size 0.6477 1.99898) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -1.905 -3.79984) (size 0.6477 1.99898) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_dil/soij-8.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_dil/soij-8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -31,7 +31,7 @@
     (solder_mask_margin 0.05) (solder_paste_margin -0.05))
   (pad 1 smd rect (at -3.97256 0) (size 0.889 6.1976) (layers F.Paste F.Mask)
     (solder_mask_margin 0.05) (solder_paste_margin -0.05))
-  (model walter\smd_leds\cree_mt.wrl
+  (model ${KIWALTER3DMOD}/walter\smd_leds\cree_mt.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

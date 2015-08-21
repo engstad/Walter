@@ -24,7 +24,7 @@
   (fp_line (start -6.5 12.7) (end 6.5 12.7) (layer F.SilkS) (width 0.381))
   (pad 1 smd rect (at -14 0) (size 5.1 17.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 14 0) (size 5.1 17.8) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_inductors/inductor_pm2120.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_inductors/inductor_pm2120.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

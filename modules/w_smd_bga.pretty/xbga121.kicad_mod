@@ -145,7 +145,7 @@
   (pad K8 smd circle (at 1.6 -3.2) (size 0.3175 0.3175) (layers F.Cu F.Paste F.Mask))
   (pad K9 smd circle (at 2.4 -3.2) (size 0.3175 0.3175) (layers F.Cu F.Paste F.Mask))
   (pad K10 smd circle (at 3.2 -3.2) (size 0.3175 0.3175) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/xbga121.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/xbga121.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

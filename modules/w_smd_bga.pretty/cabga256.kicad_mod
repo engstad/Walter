@@ -283,7 +283,7 @@
   (pad P1 smd circle (at 4.4 6) (size 0.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad R1 smd circle (at 5.2 6) (size 0.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad T1 smd circle (at 6 6) (size 0.45 0.45) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/cabga256.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/cabga256.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

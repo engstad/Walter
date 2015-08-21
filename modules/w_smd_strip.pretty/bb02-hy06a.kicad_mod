@@ -32,7 +32,7 @@
   (pad 4 smd rect (at -1.27 -1.525) (size 1.27 3.05) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -3.81 1.525) (size 1.27 3.05) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -6.35 -1.525) (size 1.27 3.05) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_strip/BB02-HY06A.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_strip/BB02-HY06A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

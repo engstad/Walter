@@ -141,7 +141,7 @@
   (pad H1 smd circle (at 2 5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad J1 smd circle (at 3 5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad K1 smd circle (at 4 5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/mapbga121.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/mapbga121.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

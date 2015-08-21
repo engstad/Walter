@@ -30,7 +30,7 @@
   (pad 7 smd rect (at -0.32512 -2.30124) (size 0.40894 1.02108) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -0.97536 -2.30124) (size 0.40894 1.02108) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 0 0) (size 1.92024 1.6002) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_dil/msoic-8_pp.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_dil/msoic-8_pp.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

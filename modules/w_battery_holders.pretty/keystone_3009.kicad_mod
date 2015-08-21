@@ -32,7 +32,7 @@
   (pad 1 thru_hole circle (at -12.7 0) (size 3 3) (drill 1.9) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 12.7 0) (size 3 3) (drill 1.9) (layers *.Cu *.Mask F.SilkS))
   (pad 2 smd rect (at 0 0) (size 8 8) (layers F.Cu F.Paste F.Mask))
-  (model walter/battery_holders/keystone_3009.wrl
+  (model ${KIWALTER3DMOD}/walter/battery_holders/keystone_3009.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -25,7 +25,7 @@
   (fp_line (start -1.99898 5.00126) (end -1.99898 -5.00126) (layer F.SilkS) (width 0.381))
   (pad 1 thru_hole rect (at 0 3.81) (size 1.4986 2.1971) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 0 -3.81) (size 1.4986 2.1971) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model walter/switch/dip_1-300.wrl
+  (model ${KIWALTER3DMOD}/walter/switch/dip_1-300.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

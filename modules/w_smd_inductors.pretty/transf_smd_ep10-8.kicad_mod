@@ -18,7 +18,7 @@
   (pad 6 smd rect (at -1.25 -6.605) (size 1.27 2.54) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 1.25 -6.605) (size 1.27 2.54) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 3.75 -6.605) (size 1.27 2.54) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_inductors/transf_smd_ep10-8.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_inductors/transf_smd_ep10-8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

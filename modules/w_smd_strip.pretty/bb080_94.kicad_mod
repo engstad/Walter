@@ -104,7 +104,7 @@
   (pad 56 smd rect (at 3.19532 -1.73228) (size 0.4953 2.12598) (layers F.Cu F.Paste F.Mask))
   (pad 59 smd rect (at 4.8006 1.73228) (size 0.4953 2.12598) (layers F.Cu F.Paste F.Mask))
   (pad 58 smd rect (at 4.0005 -1.73228) (size 0.4953 2.12598) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_strip/BB080_94.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_strip/BB080_94.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

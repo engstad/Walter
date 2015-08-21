@@ -23,7 +23,7 @@
   (pad 1 smd rect (at -1.99898 1.74752) (size 1.99898 1.69926) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.99898 1.74752) (size 1.99898 1.69926) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -1.99898 -1.74752) (size 1.99898 1.69926) (layers F.Cu F.Paste F.Mask))
-  (model walter/misc_comp/buzzer_sg13j12.wrl
+  (model ${KIWALTER3DMOD}/walter/misc_comp/buzzer_sg13j12.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -69,7 +69,7 @@
   (pad 54 thru_hole oval (at 25 -1) (size 1.3 1.8) (drill 0.8 (offset 0 -0.25)) (layers *.Cu *.Mask F.SilkS))
   (pad 55 thru_hole oval (at 27 1) (size 1.3 1.8) (drill 0.8 (offset 0 0.25)) (layers *.Cu *.Mask F.SilkS))
   (pad 56 thru_hole oval (at 27 -1) (size 1.3 1.8) (drill 0.8 (offset 0 -0.25)) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pin_strip/pin_socket_2mm_28x2.wrl
+  (model ${KIWALTER3DMOD}/walter/pin_strip/pin_socket_2mm_28x2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

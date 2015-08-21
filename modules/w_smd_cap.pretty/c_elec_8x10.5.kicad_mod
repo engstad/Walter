@@ -23,7 +23,7 @@
   (fp_line (start 3.302 -0.381) (end 3.302 0.381) (layer F.SilkS) (width 0.127))
   (pad 1 smd rect (at 3.2512 0) (size 3.50012 2.4003) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -3.2512 0) (size 3.50012 2.4003) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_cap/c_elec_8x10_5.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_cap/c_elec_8x10_5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

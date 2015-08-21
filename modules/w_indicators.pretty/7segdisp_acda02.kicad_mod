@@ -48,7 +48,7 @@
   (pad 18 smd rect (at -3.59918 -5.00126) (size 0.89916 2.79908) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at -5.03936 -5.00126) (size 0.89916 2.79908) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at -6.47954 -5.00126) (size 0.89916 2.79908) (layers F.Cu F.Paste F.Mask))
-  (model walter/indicators/7segdisp_acda02.wrl
+  (model ${KIWALTER3DMOD}/walter/indicators/7segdisp_acda02.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

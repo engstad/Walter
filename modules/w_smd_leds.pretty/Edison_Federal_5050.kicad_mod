@@ -57,7 +57,7 @@
     (solder_mask_margin 0.04826) (solder_paste_margin -0.04826))
   (pad 5 smd rect (at -2.1717 -1.9939) (size 0.39878 0.6985) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.04826) (solder_paste_margin -0.04826))
-  (model walter/smd_leds/edison_federal_5050.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_leds/edison_federal_5050.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

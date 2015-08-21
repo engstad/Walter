@@ -12,7 +12,7 @@
   (fp_circle (center 0 0) (end -1.6 0) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole circle (at -0.55 0) (size 0.7 0.7) (drill 0.35) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0.55 0) (size 0.7 0.7) (drill 0.35) (layers *.Cu *.Mask F.SilkS))
-  (model walter/crystal/crystal_tc-38.wrl
+  (model ${KIWALTER3DMOD}/walter/crystal/crystal_tc-38.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

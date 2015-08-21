@@ -35,7 +35,7 @@
   (pad 12 smd rect (at 3.57378 2.79908) (size 0.4191 1.47066) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at 3.57378 -2.79908) (size 0.4191 1.47066) (layers F.Cu F.Paste F.Mask))
   (pad 24 smd rect (at -3.57378 -2.79908) (size 0.4191 1.47066) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_dil/tssop-24.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_dil/tssop-24.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

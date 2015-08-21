@@ -67,7 +67,7 @@
   (pad 16 smd rect (at -0.762 2.79908) (size 0.762 0.4318) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at -0.762 -2.79908) (size 0.762 0.4318) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at -0.762 -1.99898) (size 0.762 0.4318) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_resistors/r_cat16-8.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_resistors/r_cat16-8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

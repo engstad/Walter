@@ -35,7 +35,7 @@
   (pad 14 thru_hole oval (at -21.78 0) (size 2.5 3.5) (drill 1.7) (layers *.Cu *.Mask F.SilkS))
   (pad 15 thru_hole oval (at -25.74 0) (size 2.5 3.5) (drill 1.7) (layers *.Cu *.Mask F.SilkS))
   (pad 16 thru_hole oval (at -29.7 0) (size 2.5 3.5) (drill 1.7) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_kk156/26-60-4160.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_kk156/26-60-4160.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

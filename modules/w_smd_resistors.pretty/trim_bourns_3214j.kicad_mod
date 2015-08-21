@@ -17,7 +17,7 @@
   (pad 3 smd rect (at -1.15062 -1.99898) (size 1.30048 1.99898) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 1.99898) (size 1.99898 1.99898) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 1.15062 -1.99898) (size 1.30048 1.99898) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_resistors/trim_bourns_3214j.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_resistors/trim_bourns_3214j.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

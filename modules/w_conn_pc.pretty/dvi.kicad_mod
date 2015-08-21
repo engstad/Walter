@@ -58,7 +58,7 @@
   (pad C5 thru_hole circle (at 8.255 -2.667) (size 1.30048 1.30048) (drill 0.8001) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -9.525 -0.00254) (size 1.99898 1.99898) (drill 1.99898) (layers *.Cu))
   (pad "" np_thru_hole circle (at 9.525 -0.00254) (size 1.99898 1.99898) (drill 1.99898) (layers *.Cu))
-  (model walter/conn_pc/dvi.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_pc/dvi.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

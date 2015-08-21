@@ -281,7 +281,7 @@
   (pad E14 smd circle (at -3.5 -5.5 90) (size 0.47 0.47) (layers F.Cu F.Paste F.Mask))
   (pad E15 smd circle (at -3.5 -6.5 90) (size 0.47 0.47) (layers F.Cu F.Paste F.Mask))
   (pad E16 smd circle (at -3.5 -7.5 90) (size 0.47 0.47) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/fbga256.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/fbga256.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

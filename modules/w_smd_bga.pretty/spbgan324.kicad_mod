@@ -348,7 +348,7 @@
   (pad L16 smd circle (at -5.2 -1.2) (size 0.47 0.47) (layers F.Cu F.Paste F.Mask))
   (pad L17 smd circle (at -6 -1.2) (size 0.47 0.47) (layers F.Cu F.Paste F.Mask))
   (pad L18 smd circle (at -6.8 -1.2) (size 0.47 0.47) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/spbgan324.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/spbgan324.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -54,7 +54,7 @@
   (pad 25 smd rect (at 3.8 -10) (size 0.8 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 26 smd rect (at 2.2 -10) (size 0.8 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 27 smd rect (at 0.6 -10) (size 0.8 1.4) (layers F.Cu F.Paste F.Mask))
-  (model walter/rf_modules/roving_rn-42-n.wrl
+  (model ${KIWALTER3DMOD}/walter/rf_modules/roving_rn-42-n.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

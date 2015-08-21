@@ -14,7 +14,7 @@
   (fp_line (start 1.6002 -0.8128) (end -1.6002 -0.8128) (layer F.SilkS) (width 0.127))
   (pad 1 smd rect (at 1.397 0) (size 1.6002 1.8034) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.397 0) (size 1.6002 1.8034) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_resistors/r_1206.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_resistors/r_1206.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

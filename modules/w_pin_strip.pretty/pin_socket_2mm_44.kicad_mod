@@ -56,7 +56,7 @@
   (pad 42 thru_hole oval (at 39 0) (size 1.3 1.8) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 43 thru_hole oval (at 41 0) (size 1.3 1.8) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 44 thru_hole oval (at 43 0) (size 1.3 1.8) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pin_strip/pin_socket_2mm_44.wrl
+  (model ${KIWALTER3DMOD}/walter/pin_strip/pin_socket_2mm_44.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

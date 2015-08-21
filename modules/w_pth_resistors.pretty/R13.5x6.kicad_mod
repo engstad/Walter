@@ -16,7 +16,7 @@
   (fp_line (start -7.2517 0) (end -10.00252 0) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole circle (at -10.16 0) (size 2.99974 2.99974) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 10.16 0) (size 2.99974 2.99974) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pth_resistors/r13.5x6.wrl
+  (model ${KIWALTER3DMOD}/walter/pth_resistors/r13.5x6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -28,7 +28,7 @@
   (pad 3 thru_hole circle (at 4.699 -9.52754) (size 3 3) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -6.59638 0) (size 3 3) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 6.59638 0) (size 3 3) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
-  (model walter/switch/switch_mfp116dg-ra.wrl
+  (model ${KIWALTER3DMOD}/walter/switch/switch_mfp116dg-ra.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -36,7 +36,7 @@
   (pad 5 smd rect (at 4.7244 1.37414) (size 1.30048 3.35026) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.62484 -3.50012) (size 0.8001 1.89992) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.87452 -3.50012) (size 0.8001 1.89992) (layers F.Cu F.Paste F.Mask))
-  (model walter/conn_panelmate/panelmate_smd_4.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_panelmate/panelmate_smd_4.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

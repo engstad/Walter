@@ -15,7 +15,7 @@
   (pad 1 thru_hole circle (at -3.81 0) (size 3 3) (drill 1.9) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 3.81 0) (size 3 3) (drill 1.9) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 0 0) (size 6.4 6.4) (layers F.SilkS))
-  (model walter/battery_holders/keystone_2990.wrl
+  (model ${KIWALTER3DMOD}/walter/battery_holders/keystone_2990.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

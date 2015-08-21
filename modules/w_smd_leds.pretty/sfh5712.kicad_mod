@@ -31,7 +31,7 @@
     (solder_mask_margin 0.06858))
   (pad 4 smd rect (at -0.775 -0.825) (size 0.95 0.85) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.06858))
-  (model walter/smd_leds/sfh5712.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_leds/sfh5712.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -17,7 +17,7 @@
   (fp_line (start -2.79908 -3.0988) (end -2.79908 3.0988) (layer F.SilkS) (width 0.254))
   (pad 2 thru_hole oval (at -1.27 0) (size 1.99898 1.99898) (drill 1.09728) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at 1.27 0) (size 1.99898 1.99898) (drill 1.09728) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_mpt/mpt_0,5-2-2,54.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_mpt/mpt_0,5-2-2,54.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

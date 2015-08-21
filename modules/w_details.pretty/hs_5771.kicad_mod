@@ -26,7 +26,7 @@
   (fp_line (start 6.74878 8.24738) (end 5.4991 8.24738) (layer F.SilkS) (width 0.3048))
   (fp_line (start -5.4991 8.24738) (end -6.74878 8.24738) (layer F.SilkS) (width 0.3048))
   (pad "" thru_hole circle (at 0 -0.84836) (size 2.74828 2.74828) (drill 1.59766) (layers *.Cu *.Mask F.SilkS))
-  (model walter/details/hs_5771.wrl
+  (model ${KIWALTER3DMOD}/walter/details/hs_5771.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

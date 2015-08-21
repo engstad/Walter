@@ -208,7 +208,7 @@
   (pad 174 smd rect (at -12.7508 9.75106) (size 1.3462 0.28956) (layers F.Cu F.Paste F.Mask))
   (pad 175 smd rect (at -12.7508 10.2489) (size 1.3462 0.28956) (layers F.Cu F.Paste F.Mask))
   (pad 176 smd rect (at -12.7508 10.74928) (size 1.3462 0.28956) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_lqfp/lqfp-176.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_lqfp/lqfp-176.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -123,7 +123,7 @@
   (pad G1 smd circle (at 0.8 1.8) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad H1 smd circle (at 1.2 1.8) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad J1 smd circle (at 1.6 1.8) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/wlcsp90.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/wlcsp90.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

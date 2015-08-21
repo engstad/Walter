@@ -24,7 +24,7 @@
   (pad 5 thru_hole circle (at 5.08 0) (size 2.99974 2.99974) (drill 1.24968) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at 10.16 0) (size 2.99974 2.99974) (drill 1.24968) (layers *.Cu *.Mask F.SilkS))
   (pad 7 thru_hole circle (at 15.24 0) (size 2.99974 2.99974) (drill 1.24968) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_screw/mors_7p.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_screw/mors_7p.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

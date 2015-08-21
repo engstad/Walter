@@ -30,7 +30,7 @@
   (pad 6 thru_hole circle (at -7.99846 0) (size 2.9972 2.9972) (drill 1.99898) (layers *.Cu *.Mask F.SilkS))
   (pad 7 thru_hole circle (at -5.65658 5.65658) (size 2.9972 2.9972) (drill 1.99898) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 5.65658 5.65658) (size 2.9972 2.9972) (drill 1.99898) (layers *.Cu *.Mask F.SilkS))
-  (model walter/vacuum/tube_gzc7-y.wrl
+  (model ${KIWALTER3DMOD}/walter/vacuum/tube_gzc7-y.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

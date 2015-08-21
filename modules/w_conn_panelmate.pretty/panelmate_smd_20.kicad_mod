@@ -100,7 +100,7 @@
   (pad 19 smd rect (at 10.62482 -3.50012) (size 0.8001 1.89992) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -11.8745 -3.50012) (size 0.8001 1.89992) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at 11.8745 -3.50012) (size 0.8001 1.89992) (layers F.Cu F.Paste F.Mask))
-  (model walter/conn_panelmate/panelmate_smd_20.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_panelmate/panelmate_smd_20.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -43,7 +43,7 @@
   (pad 6 smd rect (at 1.62306 2.16916) (size 0.4191 0.889) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at -0.97282 -2.16916) (size 0.4191 0.889) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at -1.62306 -2.16916) (size 0.4191 0.889) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_dil/msop-12.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_dil/msop-12.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

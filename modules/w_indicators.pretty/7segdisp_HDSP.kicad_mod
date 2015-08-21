@@ -29,7 +29,7 @@
   (pad 8 thru_hole oval (at 2.6416 0) (size 2.19964 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole oval (at 2.6416 -2.0066) (size 2.19964 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole oval (at 2.6416 -4.0132) (size 2.19964 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model walter/indicators/7segdisp_hdsp.wrl
+  (model ${KIWALTER3DMOD}/walter/indicators/7segdisp_hdsp.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

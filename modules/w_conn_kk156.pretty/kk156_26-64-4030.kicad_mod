@@ -18,7 +18,7 @@
   (pad 3 thru_hole oval (at -3.96 0) (size 2.5 3.5) (drill 1.7) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -1.98 4.24) (size 1.65 1.65) (drill 1.65) (layers *.Cu F.SilkS))
   (pad "" np_thru_hole circle (at 1.98 4.24) (size 1.65 1.65) (drill 1.65) (layers *.Cu F.SilkS))
-  (model walter/conn_kk156/26-64-4030.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_kk156/26-64-4030.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -35,7 +35,7 @@
   (pad WP smd rect (at -14.59992 5.49402) (size 1.6002 1.6002) (layers F.Cu F.Paste F.Mask))
   (pad "" thru_hole circle (at 12.10056 9.82472) (size 1.30048 1.30048) (drill 1.30048) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -12.10056 9.82472) (size 1.80086 1.80086) (drill 1.80086) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_misc/sd_socket.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_misc/sd_socket.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

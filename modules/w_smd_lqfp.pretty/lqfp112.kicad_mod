@@ -140,7 +140,7 @@
   (pad 110 smd rect (at -10.7 7.475) (size 1.5 0.37) (layers F.Cu F.Paste F.Mask))
   (pad 111 smd rect (at -10.7 8.125) (size 1.5 0.37) (layers F.Cu F.Paste F.Mask))
   (pad 112 smd rect (at -10.7 8.775) (size 1.5 0.37) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_lqfp/lqfp-112.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_lqfp/lqfp-112.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

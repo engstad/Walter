@@ -90,7 +90,7 @@
   (pad 35 thru_hole oval (at -18.005 -3.38) (size 1.5 2) (drill 1 (offset 0 0.25)) (layers *.Cu *.Mask))
   (pad 36 thru_hole oval (at -20.775 -3.38) (size 1.5 2) (drill 1 (offset 0 0.25)) (layers *.Cu *.Mask))
   (pad 37 thru_hole oval (at -23.545 -3.38) (size 1.5 2) (drill 1 (offset 0 0.25)) (layers *.Cu *.Mask))
-  (model walter/conn_d-sub/db_37f.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_d-sub/db_37f.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

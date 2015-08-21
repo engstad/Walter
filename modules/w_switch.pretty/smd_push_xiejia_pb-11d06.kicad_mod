@@ -21,7 +21,7 @@
   (pad 2 smd rect (at 0 10.5) (size 6 9) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at 3.9 0) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -3.9 0) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
-  (model walter/switch/smd_push_xiejia_pb-11d06.wrl
+  (model ${KIWALTER3DMOD}/walter/switch/smd_push_xiejia_pb-11d06.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

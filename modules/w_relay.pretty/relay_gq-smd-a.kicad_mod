@@ -47,7 +47,7 @@
   (pad 6 smd rect (at 1.5875 -3.36804) (size 0.79756 2.65938) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at -0.6096 -3.36804) (size 0.79756 2.65938) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -3.81 -3.36804) (size 0.79756 2.65938) (layers F.Cu F.Paste F.Mask))
-  (model walter/relay/relay_GQ-SMD-A.wrl
+  (model ${KIWALTER3DMOD}/walter/relay/relay_GQ-SMD-A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

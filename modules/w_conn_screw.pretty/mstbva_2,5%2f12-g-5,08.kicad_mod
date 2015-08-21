@@ -38,7 +38,7 @@
   (pad 10 thru_hole circle (at 17.78 0) (size 2.99974 2.99974) (drill 1.39954) (layers *.Cu *.Mask F.SilkS))
   (pad 11 thru_hole circle (at 22.86 0) (size 2.99974 2.99974) (drill 1.39954) (layers *.Cu *.Mask F.SilkS))
   (pad 12 thru_hole circle (at 27.94 0) (size 2.99974 2.99974) (drill 1.39954) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_screw/mstbva_2,5-12-g-5,08.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_screw/mstbva_2,5-12-g-5,08.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -57,7 +57,7 @@
   (pad 28 thru_hole oval (at -12.7 -7.62) (size 1.524 2.1971) (drill 0.99822) (layers *.Cu *.Mask F.SilkS))
   (pad 29 thru_hole oval (at -15.24 -7.62) (size 1.524 2.1971) (drill 0.99822) (layers *.Cu *.Mask F.SilkS))
   (pad 30 thru_hole oval (at -17.78 -7.62) (size 1.524 2.1971) (drill 0.99822) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_misc/arduino_nano_header.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_misc/arduino_nano_header.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

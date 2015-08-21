@@ -16,7 +16,7 @@
   (pad 1 thru_hole circle (at -0.55 -4.4) (size 0.7 0.7) (drill 0.35) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0.55 -4.4) (size 0.7 0.7) (drill 0.35) (layers *.Cu *.Mask F.SilkS))
   (pad "" smd rect (at 0 4.6) (size 3 3) (layers F.Cu F.Paste F.Mask))
-  (model walter/crystal/crystal_tc-38_horiz.wrl
+  (model ${KIWALTER3DMOD}/walter/crystal/crystal_tc-38_horiz.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

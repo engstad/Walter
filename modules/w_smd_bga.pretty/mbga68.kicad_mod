@@ -93,7 +93,7 @@
   (pad J7 smd circle (at 1 -2) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad J8 smd circle (at 1.5 -2) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad J9 smd circle (at 2 -2) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/mbga68.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/mbga68.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

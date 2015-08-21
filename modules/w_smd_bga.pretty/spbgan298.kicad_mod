@@ -323,7 +323,7 @@
   (pad P14 smd circle (at -2.6 -2.6) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad P6 smd circle (at 2.6 -2.6) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
   (pad P7 smd circle (at 1.95 -2.6) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/spbgan298.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/spbgan298.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

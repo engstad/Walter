@@ -56,7 +56,7 @@
   (pad "" smd rect (at 2.97434 0.8001) (size 1.6002 2.19964) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -2.97434 0.8001) (size 1.6002 2.19964) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 0 0.20066) (size 1.99898 2.49936) (layers Dwgs.User))
-  (model walter/conn_df13/df13c-2p-125v.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_df13/df13c-2p-125v.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

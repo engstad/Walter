@@ -18,7 +18,7 @@
   (pad 2 smd rect (at -2.375 -2.375) (size 1.91 1.91) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.375 2.375) (size 1.91 1.91) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.375 2.375) (size 1.91 1.91) (layers F.Cu F.Paste F.Mask))
-  (model walter/conn_rf/sma_smd_73251-135x.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_rf/sma_smd_73251-135x.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

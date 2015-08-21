@@ -16,7 +16,7 @@
   (pad "" smd rect (at -5.05 -1.15) (size 2.2 1.1) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 5.05 1.15) (size 2.2 1.1) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 5.05 -1.15) (size 2.2 1.1) (layers F.Cu F.Paste F.Mask))
-  (model walter/misc_rf/antenna_rufa_a5839.wrl
+  (model ${KIWALTER3DMOD}/walter/misc_rf/antenna_rufa_a5839.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

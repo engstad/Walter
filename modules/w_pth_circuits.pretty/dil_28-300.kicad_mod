@@ -42,7 +42,7 @@
   (pad 26 thru_hole oval (at -11.43 -3.81) (size 1.50114 2.19964) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 27 thru_hole oval (at -13.97 -3.81) (size 1.50114 2.19964) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 28 thru_hole oval (at -16.51 -3.81) (size 1.50114 2.19964) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pth_circuits/dil_28-300.wrl
+  (model ${KIWALTER3DMOD}/walter/pth_circuits/dil_28-300.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

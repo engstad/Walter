@@ -21,7 +21,7 @@
   (fp_line (start -5.334 5.334) (end -5.334 -7.62) (layer F.SilkS) (width 0.381))
   (pad 1 thru_hole circle (at -2.54 7.84352) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.54 7.84352) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model walter/crystal/crystal_hc-49u_horiz.wrl
+  (model ${KIWALTER3DMOD}/walter/crystal/crystal_hc-49u_horiz.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

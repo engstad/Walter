@@ -37,7 +37,7 @@
   (pad 4 thru_hole oval (at -11.43 3.81) (size 1.5 2) (drill 1 (offset 0 -0.25)) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole oval (at -8.89 6.35) (size 1.5 2) (drill 1 (offset 0 0.25)) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole oval (at -8.89 3.81) (size 1.5 2) (drill 1 (offset 0 -0.25)) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_strip/vasch_strip_12x2_90.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_strip/vasch_strip_12x2_90.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

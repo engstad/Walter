@@ -20,7 +20,7 @@
   (pad 6 thru_hole oval (at 3.81 0) (size 1.524 2.1971) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 7 thru_hole oval (at 6.35 0) (size 1.524 2.1971) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole oval (at 8.89 0) (size 1.524 2.1971) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model walter/pth_resistors/r-sil_8.wrl
+  (model ${KIWALTER3DMOD}/walter/pth_resistors/r-sil_8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -26,7 +26,7 @@
   (pad 6 smd rect (at 0 -2.4) (size 6.7 6.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.27 4.25) (size 0.76 3) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.27 4.25) (size 0.76 3) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_trans/ppak.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_trans/ppak.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

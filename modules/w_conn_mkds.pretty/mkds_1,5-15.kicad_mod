@@ -57,7 +57,7 @@
   (pad 3 thru_hole circle (at -25 0) (size 2.5 2.5) (drill 1.3) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at -35 0) (size 2.5 2.5) (drill 1.3) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -30 0) (size 2.5 2.5) (drill 1.3) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_mkds/mkds_1,5-15.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_mkds/mkds_1,5-15.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

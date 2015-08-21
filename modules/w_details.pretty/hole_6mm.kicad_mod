@@ -10,7 +10,7 @@
   (fp_line (start -3.81 0) (end 3.81 0) (layer F.SilkS) (width 0.254))
   (fp_circle (center 0 0) (end 3.302 0) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole circle (at 0 0) (size 5.99948 5.99948) (drill 5.99948) (layers *.Cu F.SilkS))
-  (model walter/details/hole.wrl
+  (model ${KIWALTER3DMOD}/walter/details/hole.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

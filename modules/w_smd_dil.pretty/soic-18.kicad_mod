@@ -47,7 +47,7 @@
   (pad 16 smd rect (at -2.54 -4.81076) (size 0.55118 1.43002) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at -3.81 -4.81076) (size 0.55118 1.43002) (layers F.Cu F.Paste F.Mask))
   (pad 18 smd rect (at -5.08 -4.81076) (size 0.55118 1.43002) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_dil/soic-18.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_dil/soic-18.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

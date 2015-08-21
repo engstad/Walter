@@ -137,7 +137,7 @@
   (pad 16 thru_hole oval (at -5.08 -3.81) (size 1.4986 2.1971) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 17 thru_hole oval (at -7.62 -3.81) (size 1.4986 2.1971) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 18 thru_hole oval (at -10.16 -3.81) (size 1.4986 2.1971) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model walter/switch/dip_9-300.wrl
+  (model ${KIWALTER3DMOD}/walter/switch/dip_9-300.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

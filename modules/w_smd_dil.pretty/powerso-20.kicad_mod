@@ -36,7 +36,7 @@
   (pad 19 smd rect (at -4.445 -6.84784) (size 0.75946 1.69926) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at -5.715 -6.8453) (size 0.75946 1.69926) (layers F.Cu F.Paste F.Mask))
   (pad 21 smd rect (at 0 0) (size 16.09852 3.39852) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_dil/powerso-20.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_dil/powerso-20.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

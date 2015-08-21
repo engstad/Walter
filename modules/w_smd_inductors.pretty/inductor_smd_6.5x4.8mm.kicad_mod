@@ -18,7 +18,7 @@
   (fp_circle (center 0 -1.74968) (end 0 -1.50076) (layer F.SilkS) (width 0.381))
   (pad 1 smd rect (at 0 -3) (size 2.5 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 3) (size 2.5 1.5) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_inductors/inductor_smd_6.5x4.8mm.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_inductors/inductor_smd_6.5x4.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -15,7 +15,7 @@
   (pad 2 smd rect (at 0.635 3.175) (size 0.61 1.52) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.635 -3.175) (size 0.61 1.52) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -0.635 -3.175) (size 0.61 1.52) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_dil/mfp-4.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_dil/mfp-4.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

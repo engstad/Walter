@@ -42,7 +42,7 @@
   (pad 14 thru_hole oval (at 1.02 -15.5) (size 1.5 2.2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 15 thru_hole oval (at 3.56 -15.5) (size 1.5 2.2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 16 thru_hole oval (at 6.1 -15.5) (size 1.5 2.2) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model walter/indicators/lcd_16x2.wrl
+  (model ${KIWALTER3DMOD}/walter/indicators/lcd_16x2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

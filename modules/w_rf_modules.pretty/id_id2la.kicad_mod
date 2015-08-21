@@ -21,7 +21,7 @@
   (pad 2 thru_hole oval (at 1 6.75) (size 1.6 2.2) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole oval (at 3 6.75) (size 1.6 2.2) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
   (pad 11 thru_hole oval (at 7 -8.25) (size 1.6 2.2) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
-  (model walter/rf_modules/id_id2la.wrl
+  (model ${KIWALTER3DMOD}/walter/rf_modules/id_id2la.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

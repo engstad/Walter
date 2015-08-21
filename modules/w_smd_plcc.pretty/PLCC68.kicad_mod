@@ -102,7 +102,7 @@
   (pad 58 smd oval (at -11.8999 7.62) (size 2.70002 0.70104) (layers F.Cu F.Paste F.Mask))
   (pad 59 smd oval (at -11.8999 8.89) (size 2.70002 0.70104) (layers F.Cu F.Paste F.Mask))
   (pad 60 smd oval (at -11.8999 10.16) (size 2.70002 0.70104) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_plcc/plcc68.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_plcc/plcc68.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

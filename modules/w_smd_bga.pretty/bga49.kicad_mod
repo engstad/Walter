@@ -75,7 +75,7 @@
   (pad E1 smd circle (at 0.8 2.4) (size 0.47 0.47) (layers F.Cu F.Paste F.Mask))
   (pad F1 smd circle (at 1.6 2.4) (size 0.47 0.47) (layers F.Cu F.Paste F.Mask))
   (pad G1 smd circle (at 2.4 2.4) (size 0.47 0.47) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_bga/bga49.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_bga/bga49.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

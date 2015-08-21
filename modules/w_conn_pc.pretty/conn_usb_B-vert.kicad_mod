@@ -23,7 +23,7 @@
   (pad "" thru_hole circle (at 6.0198 1.10998) (size 3.50012 3.50012) (drill 2.30124) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 0 5.51942) (size 3.50012 3.50012) (drill 2.30124) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 0 -5.61086) (size 3.50012 3.50012) (drill 2.30124) (layers *.Cu *.Mask))
-  (model walter/conn_pc/usb_B_vert.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_pc/usb_B_vert.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

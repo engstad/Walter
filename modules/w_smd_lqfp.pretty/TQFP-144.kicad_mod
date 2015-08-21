@@ -176,7 +176,7 @@
   (pad 142 smd rect (at -10.72388 7.74954) (size 1.34874 0.28956) (layers F.Cu F.Paste F.Mask))
   (pad 143 smd rect (at -10.72388 8.24992) (size 1.34874 0.28956) (layers F.Cu F.Paste F.Mask))
   (pad 144 smd rect (at -10.72388 8.7503) (size 1.34874 0.28956) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_lqfp/tqfp-144.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_lqfp/tqfp-144.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

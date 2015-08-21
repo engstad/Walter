@@ -154,7 +154,7 @@
   (pad 12 thru_hole oval (at -2.54 -19.05 90) (size 2.2 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 13 thru_hole oval (at -5.08 -19.05 90) (size 2.2 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole oval (at -7.62 -19.05 90) (size 2.2 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model walter/indicators/dotdisp_cmd557xx00.wrl
+  (model ${KIWALTER3DMOD}/walter/indicators/dotdisp_cmd557xx00.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

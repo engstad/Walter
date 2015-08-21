@@ -34,7 +34,7 @@
   (pad 9 thru_hole circle (at 6.325 3.38) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at -6.325 4.9) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at -3.785 3.38) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
-  (model walter/conn_pc/rj45-led-rb1-125bag1a.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_pc/rj45-led-rb1-125bag1a.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -30,7 +30,7 @@
   (pad 8 thru_hole oval (at 8.89 0) (size 1.50114 2.19964) (drill 0.50038) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at -8.89 0) (size 1.50114 2.19964) (drill 0.50038) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at -6.35 0) (size 1.50114 2.19964) (drill 0.50038) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_modu/AMP_MODU_8.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_modu/AMP_MODU_8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -31,7 +31,7 @@
   (pad 7 thru_hole oval (at -5.08 0) (size 1.99898 1.99898) (drill 1.09728) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole oval (at -7.62 0) (size 1.99898 1.99898) (drill 1.09728) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole oval (at -10.16 0) (size 1.99898 1.99898) (drill 1.09728) (layers *.Cu *.Mask F.SilkS))
-  (model walter/conn_mpt/mpt_0,5-9-2,54.wrl
+  (model ${KIWALTER3DMOD}/walter/conn_mpt/mpt_0,5-9-2,54.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

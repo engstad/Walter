@@ -24,7 +24,7 @@
   (fp_line (start 1.69926 -1.397) (end -1.69926 -1.397) (layer F.SilkS) (width 0.19812))
   (pad 1 smd rect (at -1.4986 0) (size 1.79578 2.69748) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.4986 0) (size 1.79578 2.69748) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_leds/led_plcc2_3528.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_leds/led_plcc2_3528.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

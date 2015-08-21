@@ -33,7 +33,7 @@
   (pad 8 smd rect (at -2.15 -2) (size 0.7 1) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.04826) (solder_paste_margin -0.15))
   (pad 9 smd rect (at 0 0) (size 1.93 3.96) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_leds/cree_xm_color.wrl
+  (model ${KIWALTER3DMOD}/walter/smd_leds/cree_xm_color.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

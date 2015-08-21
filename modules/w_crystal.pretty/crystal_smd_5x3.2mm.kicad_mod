@@ -26,7 +26,7 @@
     (solder_mask_margin 0.06858))
   (pad 2 smd rect (at 1.85 0) (size 1.7 2.4) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.06858))
-  (model walter/crystal/crystal_smd_5x3.2mm.wrl
+  (model ${KIWALTER3DMOD}/walter/crystal/crystal_smd_5x3.2mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
